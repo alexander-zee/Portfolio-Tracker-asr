@@ -1,5 +1,9 @@
 # Portfolio Tracker
 
+#DEMO
+
+[streamlit link around here]
+
 ## Description
 
 This project is a command-line interface (CLI) application to track and simulate an investment portfolio. It allows users to manage assets, analyze portfolio composition, and simulate future portfolio performance using Monte Carlo methods.
